@@ -1,0 +1,7 @@
+C:\Users\Lab108-12\Documents\wola\PedirDatos\PedirDatos\bin\Debug\PedirDatos.exe.config
+C:\Users\Lab108-12\Documents\wola\PedirDatos\PedirDatos\bin\Debug\PedirDatos.exe
+C:\Users\Lab108-12\Documents\wola\PedirDatos\PedirDatos\bin\Debug\PedirDatos.pdb
+C:\Users\Lab108-12\Documents\wola\PedirDatos\PedirDatos\obj\Debug\PedirDatos.csproj.AssemblyReference.cache
+C:\Users\Lab108-12\Documents\wola\PedirDatos\PedirDatos\obj\Debug\PedirDatos.csproj.CoreCompileInputs.cache
+C:\Users\Lab108-12\Documents\wola\PedirDatos\PedirDatos\obj\Debug\PedirDatos.exe
+C:\Users\Lab108-12\Documents\wola\PedirDatos\PedirDatos\obj\Debug\PedirDatos.pdb
