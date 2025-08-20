@@ -1,0 +1,7 @@
+C:\Users\Lab108-12\Documents\wola\LlamarDatos\LlamarDatos\bin\Debug\LlamarDatos.exe.config
+C:\Users\Lab108-12\Documents\wola\LlamarDatos\LlamarDatos\bin\Debug\LlamarDatos.exe
+C:\Users\Lab108-12\Documents\wola\LlamarDatos\LlamarDatos\bin\Debug\LlamarDatos.pdb
+C:\Users\Lab108-12\Documents\wola\LlamarDatos\LlamarDatos\obj\Debug\LlamarDatos.csproj.AssemblyReference.cache
+C:\Users\Lab108-12\Documents\wola\LlamarDatos\LlamarDatos\obj\Debug\LlamarDatos.csproj.CoreCompileInputs.cache
+C:\Users\Lab108-12\Documents\wola\LlamarDatos\LlamarDatos\obj\Debug\LlamarDatos.exe
+C:\Users\Lab108-12\Documents\wola\LlamarDatos\LlamarDatos\obj\Debug\LlamarDatos.pdb
