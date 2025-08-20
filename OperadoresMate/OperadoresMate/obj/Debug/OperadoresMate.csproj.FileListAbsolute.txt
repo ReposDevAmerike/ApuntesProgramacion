@@ -1,0 +1,7 @@
+C:\Users\Lab108-12\Documents\wola\OperadoresMate\OperadoresMate\bin\Debug\OperadoresMate.exe.config
+C:\Users\Lab108-12\Documents\wola\OperadoresMate\OperadoresMate\bin\Debug\OperadoresMate.exe
+C:\Users\Lab108-12\Documents\wola\OperadoresMate\OperadoresMate\bin\Debug\OperadoresMate.pdb
+C:\Users\Lab108-12\Documents\wola\OperadoresMate\OperadoresMate\obj\Debug\OperadoresMate.csproj.AssemblyReference.cache
+C:\Users\Lab108-12\Documents\wola\OperadoresMate\OperadoresMate\obj\Debug\OperadoresMate.csproj.CoreCompileInputs.cache
+C:\Users\Lab108-12\Documents\wola\OperadoresMate\OperadoresMate\obj\Debug\OperadoresMate.exe
+C:\Users\Lab108-12\Documents\wola\OperadoresMate\OperadoresMate\obj\Debug\OperadoresMate.pdb
