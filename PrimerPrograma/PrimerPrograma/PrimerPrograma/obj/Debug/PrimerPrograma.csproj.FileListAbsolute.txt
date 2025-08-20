@@ -1,0 +1,7 @@
+C:\Users\Lab108-11\Documents\ClaseProgramacion\PrimerPrograma\PrimerPrograma\bin\Debug\PrimerPrograma.exe.config
+C:\Users\Lab108-11\Documents\ClaseProgramacion\PrimerPrograma\PrimerPrograma\bin\Debug\PrimerPrograma.exe
+C:\Users\Lab108-11\Documents\ClaseProgramacion\PrimerPrograma\PrimerPrograma\bin\Debug\PrimerPrograma.pdb
+C:\Users\Lab108-11\Documents\ClaseProgramacion\PrimerPrograma\PrimerPrograma\obj\Debug\PrimerPrograma.csproj.AssemblyReference.cache
+C:\Users\Lab108-11\Documents\ClaseProgramacion\PrimerPrograma\PrimerPrograma\obj\Debug\PrimerPrograma.csproj.CoreCompileInputs.cache
+C:\Users\Lab108-11\Documents\ClaseProgramacion\PrimerPrograma\PrimerPrograma\obj\Debug\PrimerPrograma.exe
+C:\Users\Lab108-11\Documents\ClaseProgramacion\PrimerPrograma\PrimerPrograma\obj\Debug\PrimerPrograma.pdb
